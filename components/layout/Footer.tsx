@@ -82,11 +82,11 @@ export default function Footer() {
                     />
                   </svg>
                   <span>
-                    123 Tamil Street,
+                    252, State Bank Colony,
                     <br />
-                    Chennai, Tamil Nadu,
+                    Ooty, The Nilgiris, Tamil Nadu,
                     <br />
-                    India - 600001
+                    India - 643 001
                   </span>
                 </li>
                 <li className="flex items-center">
@@ -107,7 +107,7 @@ export default function Footer() {
                     href="mailto:contact@authorname.com"
                     className="hover:text-purple-600 dark:hover:text-white transition-colors"
                   >
-                    contact@authorname.com
+                    kavithayinimaniarjunan@gmail.com
                   </a>
                 </li>
                 <li className="flex items-center">
@@ -128,7 +128,7 @@ export default function Footer() {
                     href="tel:+919876543210"
                     className="hover:text-purple-600 dark:hover:text-white transition-colors"
                   >
-                    +91 987 654 3210
+                    +91 95008 97401
                   </a>
                 </li>
               </ul>
