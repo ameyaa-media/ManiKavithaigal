@@ -62,7 +62,6 @@ export default function ContactForm() {
         </label>
         <input
           id="name"
-          name="name"
           type="text"
           {...register("name")}
           required
@@ -87,7 +86,6 @@ export default function ContactForm() {
         </label>
         <input
           id="email"
-          name="email"
           type="email"
           {...register("email")}
           required
@@ -112,7 +110,6 @@ export default function ContactForm() {
         </label>
         <input
           id="subject"
-          name="subject"
           type="text"
           {...register("subject")}
           required
@@ -137,7 +134,6 @@ export default function ContactForm() {
         </label>
         <textarea
           id="message"
-          name="message"
           {...register("message")}
           required
           aria-invalid={errors.message ? true : false}
