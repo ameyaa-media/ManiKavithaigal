@@ -12,46 +12,56 @@ export interface Award {
 export const awards: Award[] = [
   {
     id: "1",
-    title: "Best Tamil Author Award",
-    titleTamil: "சிறந்த தமிழ் எழுத்தாளர் விருது",
-    organization: "Tamil Literary Association",
+    title: "Ilakkiya Mamani Virudhu",
+    titleTamil: "இலக்கிய மாமணி விருது",
+    organization: "Govt of Tamil Nadu",
     organizationTamil: "தமிழ் இலக்கிய சங்கம்",
-    year: 2023,
+    year: 2024,
     description:
       "Awarded for outstanding contribution to Tamil literature and cultural preservation.",
     descriptionTamil:
-      "தமிழ் இலக்கியம் மற்றும் கலாச்சார பாதுகாப்பிற்கான சிறந்த பங்களிப்புக்காக வழங்கப்பட்டது.",
+      "இலக்கிய மாமணி விருது என்பது தமிழக அரசால் தமிழுக்கும் தமிழ் இலக்கிய வளர்ச்சிக்கும் பங்களிக்கும் அறிஞர்களுக்கு வழங்கப்படும் உயரிய விருது ஆகும்",
   },
   {
     id: "2",
-    title: "Best Tamil Author Award",
-    titleTamil: "சிறந்த தமிழ் எழுத்தாளர் விருது",
-    organization: "Tamil Literary Association",
-    organizationTamil: "தமிழ் இலக்கிய சங்கம்",
-    year: 2023,
-    description:
-      "Awarded for outstanding contribution to Tamil literature and cultural preservation.",
-    descriptionTamil:
-      "தமிழ் இலக்கியம் மற்றும் கலாச்சார பாதுகாப்பிற்கான சிறந்த பங்களிப்புக்காக வழங்கப்பட்டது.",
+    title: "Tamil Chemmal Award",
+    titleTamil: "தமிழ் செம்மல் விருது",
+    organization: "Tamil Nadu Government",
+    organizationTamil: "தமிழ்நாடு அரசு",
+    year: 2017,
+    description: "Annual state award for dedicated Tamil service",
+    descriptionTamil: "தமிழ் சேவைக்கான ஆண்டு மாநில விருது",
   },
   {
     id: "3",
-    title: "Excellence in Fiction",
-    titleTamil: "புனைகதையில் சிறப்பு",
-    organization: "National Book Council",
-    organizationTamil: "தேசிய புத்தக கவுன்சில்",
-    year: 2022,
+    title: "Best Book Award-Poetry",
+    titleTamil: "சிறந்த புத்தக விருது - கவிதை",
+    organization: "Tamil Nadu Government",
+    organizationTamil: "தமிழ்நாடு அரசு",
+    year: 2018,
     description:
-      "Recognition for exceptional storytelling and narrative craft in Tamil fiction.",
+      "Recognition for exceptional storytelling and narrative craft in Tamil Poetry.",
     descriptionTamil:
-      "தமிழ் புனைகதையில் விதிவிலக்கான கதை சொல்லல் மற்றும் கதை கைவினைக்கான அங்கீகாரம்.",
+      "தமிழ் கவிதையில் விதிவிலக்கான கதை சொல்லல் மற்றும் கதை கைவினைக்கான அங்கீகாரம்.",
   },
   {
     id: "4",
-    title: "Cultural Heritage Award",
-    titleTamil: "கலாச்சார பாரம்பரிய விருது",
-    organization: "Ministry of Culture",
-    organizationTamil: "கலாச்சார அமைச்சகம்",
+    title: "The Enlightenment Award",
+    titleTamil: "",
+    organization: "International Tamil University- USA",
+    organizationTamil: "அந்தர்காவிய தமிழ் பல்கலைக்கழகம்- அமெரிக்கா",
+    year: 2021,
+    description:
+      "Honored for promoting Tamil language and culture through literary works.",
+    descriptionTamil:
+      "இலக்கிய படைப்புகள் மூலம் தமிழ் மொழி மற்றும் கலாச்சாரத்தை மேம்படுத்தியதற்காக கௌரவிக்கப்பட்டது.",
+  },
+  {
+    id: "5",
+    title: "The Enlightenment Award",
+    titleTamil: "",
+    organization: "International Tamil University- USA",
+    organizationTamil: "அந்தர்காவிய தமிழ் பல்கலைக்கழகம்- அமெரிக்கா",
     year: 2021,
     description:
       "Honored for promoting Tamil language and culture through literary works.",
