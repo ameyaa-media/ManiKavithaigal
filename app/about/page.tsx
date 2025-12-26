@@ -171,8 +171,8 @@ export default function AboutPage() {
               <li className="flex items-start">
                 <span className="text-neutral-900 dark:text-white mr-2">•</span>
                 <span>
-                  The best book award. -Tamil Nadine government <br />
-                  சிறந்த கவிதைநூல் விருது
+                  The best book award. -Tamil Nadu Government <br />
+                  சிறந்த கவிதைநூல் விருது - தமிழ்நாடு அரசு
                 </span>
               </li>
               <li className="flex items-start">
@@ -186,7 +186,7 @@ export default function AboutPage() {
               <li className="flex items-start">
                 <span className="text-neutral-900 dark:text-white mr-2">•</span>
                 <span>
-                  kavikquil Sarajini Devi Memorial award-Vasanthavaasal, Covai
+                  Kavikquil Sarajini Devi Memorial award-Vasanthavaasal, Covai
                   <br />
                   கவிக்குயில் சரோஜினி தேவி நினைவு விருது. -வசந்தவாசல் கவிமன்றம்,
                   கோவை.
