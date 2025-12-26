@@ -19,10 +19,10 @@ const notoSansTamil = Noto_Sans_Tamil({
 export const metadata: Metadata = {
   title: {
     default: "Mani Kavithaigal - Tamil Author & Writer",
-    template: "%s | Author Name",
+    template: "%s | Kavithayini Mani Arjunan",
   },
   description:
-    "Official website of Author Name - Award-winning Tamil author, writer, and literary contributor. Explore books, awards, gallery, and more.",
+    "Official website of Kavithayini Mani Arjunan - Award-winning Tamil author, writer, and literary contributor. Explore books, awards, gallery, and more.",
   keywords: [
     "Tamil author",
     "Tamil literature",
@@ -30,22 +30,22 @@ export const metadata: Metadata = {
     "writer",
     "author",
   ],
-  authors: [{ name: "Author Name" }],
-  creator: "Author Name",
+  authors: [{ name: "Kavithayini Mani Arjunan" }],
+  creator: "Kavithayini Mani Arjunan",
   openGraph: {
     type: "website",
     locale: "ta_IN",
-    url: "https://yourwebsite.com",
-    title: "Author Name - Tamil Author & Writer",
+    url: "https://Manikavithaigal.netlify.app",
+    title: "Kavithayini Mani Arjunan - Tamil Author & Writer",
     description:
-      "Official website of Author Name - Award-winning Tamil author and writer",
-    siteName: "Author Name",
+      "Official website of Kavithayini Mani Arjunan - Award-winning Tamil author and writer",
+    siteName: "Kavithayini Mani Arjunan",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Author Name - Tamil Author & Writer",
+    title: "Mani Kavithaigal - Tamil Author & Writer",
     description:
-      "Official website of Author Name - Award-winning Tamil author and writer",
+      "Official website of Kavithayini Mani Arjunan - Award-winning Tamil author and writer",
   },
 };
 
