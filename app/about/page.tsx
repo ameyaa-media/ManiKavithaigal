@@ -156,31 +156,63 @@ export default function AboutPage() {
             <ul className="space-y-3 text-neutral-600 dark:text-neutral-400">
               <li className="flex items-start">
                 <span className="text-neutral-900 dark:text-white mr-2">•</span>
-                <span>Published over 15 books in various genres</span>
-              </li>
-              <li className="flex items-start">
-                <span className="text-neutral-900 dark:text-white mr-2">•</span>
-                <span>Recipient of multiple prestigious literary awards</span>
-              </li>
-              <li className="flex items-start">
-                <span className="text-neutral-900 dark:text-white mr-2">•</span>
                 <span>
-                  Featured speaker at national and international literary
-                  festivals
+                  Ilakkiamamani Award -tamil Nadu government.<br></br>-இலக்கிய
+                  மாமணி விருது -தமிழக அரசு.{" "}
                 </span>
               </li>
               <li className="flex items-start">
                 <span className="text-neutral-900 dark:text-white mr-2">•</span>
                 <span>
-                  Contributed to the preservation of Tamil language through
-                  educational initiatives
+                  Tamil chemmal Award-Tamil Nadu govt. <br />
+                  தமிழ்ச் செம்மல் விருது. - தமிழக அரசு
                 </span>
               </li>
               <li className="flex items-start">
                 <span className="text-neutral-900 dark:text-white mr-2">•</span>
                 <span>
-                  Mentored aspiring Tamil writers and conducted numerous writing
-                  workshops
+                  The best book award. -Tamil Nadine government <br />
+                  சிறந்த கவிதைநூல் விருது
+                </span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-neutral-900 dark:text-white mr-2">•</span>
+                <span>
+                  Appreciation certificate -The Nilgiris.
+                  <br />
+                  பாராட்டுச் சான்றிதழ்- நீலகிரி மாவட்ட நிர்வாகம்.
+                </span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-neutral-900 dark:text-white mr-2">•</span>
+                <span>
+                  kavikquil Sarajini Devi Memorial award-Vasanthavaasal, Covai
+                  <br />
+                  கவிக்குயில் சரோஜினி தேவி நினைவு விருது. -வசந்தவாசல் கவிமன்றம்,
+                  கோவை.
+                </span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-neutral-900 dark:text-white mr-2">•</span>
+                <span>
+                  Achiever's award- Chennai
+                  <br />
+                  சாதனையாளர் விருது-சென்னை
+                </span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-neutral-900 dark:text-white mr-2">•</span>
+                <span>
+                  Sevarathna award -Chennai <br />
+                  சேவாரத்ன விருது. -சென்னை.
+                </span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-neutral-900 dark:text-white mr-2">•</span>
+                <span>
+                  Kavichuder award -Chennai.
+                  <br />
+                  கவிச்சுடர் விருது-சென்னை.
                 </span>
               </li>
             </ul>
