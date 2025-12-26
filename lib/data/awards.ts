@@ -58,11 +58,11 @@ export const awards: Award[] = [
   },
   {
     id: "5",
-    title: "The Enlightenment Award",
-    titleTamil: "",
-    organization: "International Tamil University- USA",
-    organizationTamil: "அந்தர்காவிய தமிழ் பல்கலைக்கழகம்- அமெரிக்கா",
-    year: 2021,
+    title: " Kavikquil Sarajini Devi Memorial award",
+    titleTamil: "கவிக்குயில் சரோஜினி தேவி நினைவு விருது.",
+    organization: "Vasanthavaasal, Covai",
+    organizationTamil: "வசந்தவாசல், கோவை",
+    year: 2009,
     description:
       "Honored for promoting Tamil language and culture through literary works.",
     descriptionTamil:
