@@ -29,7 +29,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "3",
-    src: "/gallery/award-03.jpg",
+    src: "/gallery/Apj.jpg",
     alt: "Writing session",
     altTamil: "எழுதும் அமர்வு",
     caption: "At my writing desk",
