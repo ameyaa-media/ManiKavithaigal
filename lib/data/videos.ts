@@ -42,7 +42,7 @@ export const videos: Video[] = [
   },
   {
     id: "4",
-    youtubeId: "dQw4w9WgXcQ", // Replace with actual YouTube video IDs
+    youtubeId: "sDHUoVqy-1M", // Replace with actual YouTube video IDs
     title: "Writing Tips for Aspiring Authors",
     titleTamil: "வருங்கால எழுத்தாளர்களுக்கான எழுத்து குறிப்புகள்",
     description:
